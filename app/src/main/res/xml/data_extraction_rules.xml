@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <!--
+    In this file you can specify which parts of your application's data you want to allow
+    for data extraction.
+    See https://developer.android.com/about/versions/12/backup-restore#xml-changes
+    -->
+</data-extraction-rules>
